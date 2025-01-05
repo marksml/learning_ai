@@ -77,6 +77,7 @@ Here’s a curated list of **10 websites** where you can learn the most about Ar
 - **[Udemy](https://www.udemy.com/):** Affordable courses on AI and machine learning with lifetime access.
 - **[GitHub](https://github.com/):** Explore open-source AI projects and learn from code repositories.
 - **[Unwind AI](https://www.theunwindai.com/):** Explore Tutorials and news.
+- **[Chatbot Arena](https://lmarena.ai/):** Lets generate results from different models with one prompt plus compare and rate the results 
 
 ---
 
