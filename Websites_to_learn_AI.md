@@ -76,6 +76,7 @@ Here’s a curated list of **10 websites** where you can learn the most about Ar
 - **[Hugging Face](https://huggingface.co/):** For learning about NLP and transformers with tutorials and open-source models.
 - **[Udemy](https://www.udemy.com/):** Affordable courses on AI and machine learning with lifetime access.
 - **[GitHub](https://github.com/):** Explore open-source AI projects and learn from code repositories.
+- **[Unwind AI](https://www.theunwindai.com/):** Explore Tutorials and news.
 
 ---
 
